@@ -3,5 +3,5 @@ name = "icrc2-types"
 version = "1.0.0"
 description = "ICRC-2 canister interface (includes ICRC-1)"
 repository = "https://github.com/ZenVoich/icrc2-types"
-keywords = [ "types", "icrc2", "icrc-1", "interface", "service" ]
+keywords = [ "types", "icrc2", "icrc1", "interface", "service" ]
 license = "MIT"
