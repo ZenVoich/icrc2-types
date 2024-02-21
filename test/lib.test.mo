@@ -1,0 +1,1 @@
+import ICRC2 "../src";
