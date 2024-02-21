@@ -15,7 +15,7 @@ mops add icrc2-types
 
 ## Usage
 
-Get the token allowance that the spender account can transfer from the specified account the `ryjl3-tyaaa-aaaaa-aaaba-cai` (ICP) canister.
+Get the token allowance that the spender account can transfer from the specified account on the `ryjl3-tyaaa-aaaaa-aaaba-cai` (ICP) canister.
 
 ```motoko
 import ICRC2 "mo:icrc2-types";
