@@ -1,6 +1,6 @@
 [package]
 name = "icrc2-types"
-version = "1.0.1"
+version = "1.1.0"
 description = "ICRC-2 canister interface (includes ICRC-1)"
 repository = "https://github.com/ZenVoich/icrc2-types"
 keywords = [ "types", "icrc2", "icrc1", "interface", "service" ]

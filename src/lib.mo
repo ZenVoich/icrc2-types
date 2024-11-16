@@ -1,8 +1,9 @@
 module {
-	public type SupportedStandards = [{
+	public type SupportedStandard = {
 		url : Text;
 		name : Text;
-	}];
+	};
+	public type SupportedStandards = [SupportedStandard];
 	public type Account = { owner : Principal; subaccount : ?Subaccount };
 	public type Subaccount = Blob;
 	public type Timestamp = Nat64;
